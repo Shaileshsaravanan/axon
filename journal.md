@@ -28,3 +28,25 @@ I am also planning to use Fullcontrol with Klipper firmware with a Raspberry Pi 
 A Prusa i3 uses a Mini Rambo control board, however since I have an additional axis and an extra stepper motor for the 4th axis, I will be using a Duet3D Mini 5+ board for the printer as it allows for more motors to be controlled, and a Duet 3 Mini 2+ expansion board for an additional 2 stepper motor drivers. The boards are quite expensive 😭 but welp needed for the 4-axis mod. I also plan on getting a Raspberry Pi with a Display and camera for octoprint but we'll see about that later, depending on my BOM.
 
 **Total time spent: 5-6h**
+
+# June 12, 2025
+
+I have made some more parts today, I'm still not sure about the design of the z-axis top part, I might change it later. I'm working on the PSU mount and cable clips today. I had a few ideas on the mounting of the Duet3D Mini 5+ board and the Duet 3 Mini 2+ expansion board with a raspberry pi and a display, I might make a custom mount for them later.
+
+These are the parts I made today:
+
+- [psu upper mount](https://a360.co/4jLz3fi)
+![psu upper mount](images/journal/june-12/psu_upper_mount.png)
+
+- [psu lower mount](https://a360.co/3HT5qLH)
+![psu lower mount](images/journal/june-12/psu_lower_mount.png)
+
+- [cable horizontal clip](https://a360.co/4600grg)
+![cable horizontal clip](images/journal/june-12/cable_horizontal_clip.png)
+
+- [cable vertical clip](https://a360.co/4e1TbZw)
+![cable vertical clip](images/journal/june-12/cable_vertical_clip.png)
+
+oh and restructured the folder structure of the project to make it easier to navigate and find parts. I need to export step files too, will prolly do it tmr.
+
+**Total time spent: 3-4ish hours**

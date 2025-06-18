@@ -50,3 +50,35 @@ These are the parts I made today:
 oh and restructured the folder structure of the project to make it easier to navigate and find parts. I need to export step files too, will prolly do it tmrw.
 
 **Total time spent: 3-4ish hours**
+
+# June 18, 2025
+
+I've been gone for long cuz of exams and have a study holiday today so time to grind despite having chem tmrw welp. so im going to try to finish all the y-axis stuff cuz there's a lot honestly and i've only done the end caps. I also found an alternate for the duet board, the Fly‑E3‑Pro V3 but still researching on it cuz it seems too good to be true as it has support for 5 motors w/o any extension boards. I've already been thinking of my second project before completing my first 😭 but idk if i'll be able to make all of them so frustrating.
+
+I forgot most of the fusion shortcuts and stuff cuz of the gap-
+ahhhh im spending sm time trying to figure how im going to do what i want to do
+i have a backlog on the z-axis stuff to be exported to stl and step files, i'll do that tmrw or later idk
+its SO HARD to make curved parts like wtf or im js dumb probably just the second one
+idk how im going to make this work im js building stuff based on what i think i need and how the prusa works and stuff ppl have made for it on printables 
+someone genuinely needs to find a plugin to export into multiple formats and locations at once
+i think im done w z-axis and y-axis for a while now hopefully (foreshadowing maybe?)
+
+anyways here's the stuff i crafted tdy:
+
+- [y-axis belt holder](https://a360.co/3SXdeyr)
+![y-axis belt holder](images/journal/june-18/y-axis_belt_holder.png)
+
+- [y-axis tensioner](https://a360.co/4ldDb9c)
+![y-axis tensioner](images/journal/june-18/y-axis_tensioner.png)
+
+- [y-axis motor mount](https://a360.co/3FHImza)
+![y-axis motor mount](images/journal/june-18/y-axis_motor_mount.png)
+
+- [y-axis rod holder](https://a360.co/3HMG16q)
+![y-axis rod holder](images/journal/june-18/y-axis_rod_holder.png)
+
+- [y-axis mount](https://a360.co/43Ntb0r)
+![y-axis mount](images/journal/june-18/y-axis_mount.png)
+
+- [z-axis motor mount](https://a360.co/3HNQtec)
+![z-axis motor mount](images/journal/june-18/z-axis_motor_mount.png)

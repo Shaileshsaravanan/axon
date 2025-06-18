@@ -82,3 +82,5 @@ anyways here's the stuff i crafted tdy:
 
 - [z-axis motor mount](https://a360.co/3HNQtec)
 ![z-axis motor mount](images/journal/june-18/z-axis_motor_mount.png)
+
+**Total time spent: honestly no idea like maybe 6-7 hours**

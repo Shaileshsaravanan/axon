@@ -47,6 +47,6 @@ These are the parts I made today:
 - [cable vertical clip](https://a360.co/4e1TbZw)
 ![cable vertical clip](images/journal/june-12/cable_vertical_clip.png)
 
-oh and restructured the folder structure of the project to make it easier to navigate and find parts. I need to export step files too, will prolly do it tmr.
+oh and restructured the folder structure of the project to make it easier to navigate and find parts. I need to export step files too, will prolly do it tmrw.
 
 **Total time spent: 3-4ish hours**

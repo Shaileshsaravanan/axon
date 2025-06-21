@@ -84,3 +84,32 @@ anyways here's the stuff i crafted tdy:
 ![z-axis motor mount](images/journal/june-18/z-axis_motor_mount.png)
 
 **Total time spent: honestly no idea like maybe 6-7 hours**
+
+# June 19 + 20, 2025
+
+i only have like three parts left to make and need to make a whole build 3d model which i have no idea how to, i'll have to figure that out, since im using aluminium for the frame i think thats it, i lowk want to make a blacked out build but red and black seems interesting might make the 3d printed stuff red and the rods black. 
+
+ok i js realised i forgot a bearing holder for y-axis so i have 4 parts to make thank god i rechecked everything w reprap's stuff. reprap is a really nice website w a lot of info on 3d printing
+
+oh shit i js realised i didn't make stuff for the custom extruder mount,
+also day before i realised im supposed to have ALL MY 3D PARTS IN A SINGLE FILE AND NOT MULTIPLE FILES LIKE I AM DOING RN SO ITS HARDER FOR ME TO MAKE A COMPLETED BUILD 3D MODEL 😭
+
+and yeah i think im going to use the fly board despite it needing me to flash it myself manually using usb instead of duet's web interface.
+
+also making the extruder + motor brackets/mounts or wtv for the extruder and additional B0 axis stuff
+
+anyways here's today's and ydays stuff dump:
+
+- [structure build helper z-axis](https://a360.co/4la7NrY)
+![structure build helper z-axis](images/journal/june-19_20/structure_build_helper_-_z_axis.png)
+
+- [structure build helper y-axis](https://a360.co/45shFsC)
+![structure build helper y-axis](images/journal/june-19_20/structure_build_helper_-_y_axis.png)
+
+- [structure foot](https://a360.co/4licj82)
+![structure foot](images/journal/june-19_20/structure_foot.png)
+
+- [y-axis bearing holder](https://a360.co/4ncoa9a)
+![y-axis bearing holder](images/journal/june-19_20/y-axis_bearing_holder.png)
+
+**Total time spent: again dk maybe 9-10ish hours combined (both days)**

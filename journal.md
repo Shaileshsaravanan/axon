@@ -113,3 +113,13 @@ anyways here's today's and ydays stuff dump:
 ![y-axis bearing holder](images/journal/june-19_20/y-axis_bearing_holder.png)
 
 **Total time spent: again dk maybe 9-10ish hours combined (both days)**
+
+# June 21, 2025
+
+just need to make my bom and final mockup
+since i made everything separate filed its really hard to make a full mockup 
+
+here's the full mockup:
+
+- [full mockup](https://a360.co/4eeKeMx)
+![full mockup](images/journal/june-21/full-mockup.png)

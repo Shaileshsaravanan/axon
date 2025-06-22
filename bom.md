@@ -49,3 +49,4 @@
 - Raspberry Pi
 - 5" Touchscreen Display
 - NEMA-11 Bipolar Stepper with 27:1 Gearbox (28STH32)
+

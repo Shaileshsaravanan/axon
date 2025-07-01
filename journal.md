@@ -123,3 +123,11 @@ here's the full mockup:
 
 - [full mockup](https://a360.co/4eeKeMx)
 ![full mockup](images/journal/june-21/full-mockup.png)
+
+**Total time spent: no idea like an hour or two**
+
+# July 1, 2025
+
+found the btt octopus board, lowk way cheaper at 60$ than the duet or fly boards being both over 100$, I will need some tools like vernier calipers and stuff but welp budget of 350$ exceeded by like 2$ so we'll cross that bridge when it comes to it.
+
+**Total time spent: js did parts research so like an hour and half maybe?**

@@ -1,1 +1,1 @@
-ignore the content in this folder, it is for personal website use.
+ignore the content in this folder, it is for shailesh.icu website use.

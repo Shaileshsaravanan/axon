@@ -1,4 +1,5 @@
 {
     "type": "mechanica",
-    "preview": "glb"
+    "preview": "glb",
+    "desc": "experimental 4-axis 3d printer"
 }

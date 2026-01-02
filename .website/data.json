@@ -1,5 +1,7 @@
 {
     "type": "mechanica",
     "preview": "glb",
-    "desc": "experimental 4-axis 3d printer"
+    "desc": "experimental 4-axis 3d printer",
+    "mainColour": "#c4fcef",
+    "subColour": "#00c9a7"
 }

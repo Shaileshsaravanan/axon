@@ -1,25 +1,47 @@
-axon currently exists as a ***concept***. there is no physical build yet. right now it lives in planning notes, cad work, and a structured idea of what the final machine should look like and how it should function.
+first attempt writing about this. might be refined later, but here is the current state of axon as a project and as a plan.
 
-## what axon is meant to be
-axon takes inspiration from the [prusa i3](https://www.prusa3d.com/) layout and the rigidity ideas behind the [bear upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade). the planned frame is a 2040 aluminum extrusion structure with custom cad modeled parts. it will eventually run on a [btt octopus v1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1) mainboard with [klipper](https://www.klipper3d.org/). the plan includes a fourth axis to allow room for controlled experimentation once the core system is stable.
+## for context
+axon currently exists as a ***concept***.
 
-## why build it
-i wanted a 3d printer, but i did not want something generic or plug and play. this project is a way to properly learn how these machines work instead of treating them like black boxes. the objective is to understand mechanics, firmware, and design decisions at a technical level.
+there is no physical build yet. it lives in cad experiments, planning notes, diagrams, and a clear idea of how the machine should eventually behave.
 
-## current status
-axon is intentionally staying in the planning and design stage for now. most of the work is focused on:  
+## a chain of thoughts that led to axon
+i wanted a 3d printer. but buying a generic one felt too passive. i wanted to actually understand how these machines are put together instead of treating them like sealed boxes. if i was going to use one regularly, i wanted to know it inside out.
+
+so axon became the path forward.
+
+## the frame and the brain
+
+axon takes inspiration from the [prusa i3](https://www.prusa3d.com/) layout, while borrowing rigidity ideas from the [bear upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade). the current design direction centers around a 2040 aluminum extrusion frame with custom cad modeled parts.
+
+electronics wise, the plan is a [btt octopus v1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1) running [klipper](https://www.klipper3d.org/). on top of that, axon includes a fourth axis for experimentation once the core system is stable. not for show — for learning and motion control exploration.
+
+## what axon is meant to teach me
+
+this project is not about rushing to “get a printer”. it is about:
+• understanding mechanics  
+• getting comfortable with cad  
+• configuring firmware deliberately  
+• thinking about reliability, not just possibility
+
+i want to reach the point where every screw, every bracket, every config line makes sense.
+
+## current reality
+
+axon is intentionally staying in the design phase for now. most of the work is focused on:  
 • **cad modeling**  
 • **structural considerations**  
-• **thinking through motion design**  
-• **making sure the fourth axis is practical and not just aesthetic**  
-• **confirming the idea is buildable before committing to hardware**
+• **motion system planning**  
+• **making sure the fourth axis actually makes sense**  
+• **confirming the entire design is realistically buildable**
 
-this is a grounded, methodical build plan. not a rushed assembly. just a careful concept developing into something real.
+slow, careful, grounded progress.
 
-## next steps
+## what happens next
+
 • finalize cad  
-• lock mechanical design choices  
-• prepare parts list  
-• prototype when the design feels solid
+• lock mechanical choices  
+• make a parts list  
+• prototype only when the design feels solid  
 
-axon is a concept becoming clearer, one decision at a time.
+axon is still becoming clear, one decision at a time.
